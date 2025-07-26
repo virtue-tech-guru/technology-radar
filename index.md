@@ -80,11 +80,3 @@ title: My Technology Radar
 |------|-------------|
 | Jenkins | Replaced with GitHub Actions. |
 | Backbone.js | Legacy, no longer maintained. |
----
-
-## 🧭 Interactive Radar Map
-
-<div id="radar" style="margin-top: 2rem;"></div>
-<script src="https://d3js.org/d3.v6.min.js"></script>
-<script src="/assets/radar-data.js"></script>
-<script src="/assets/radar.js"></script>
